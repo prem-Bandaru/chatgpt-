@@ -1,0 +1,7 @@
+1.create a physics simulation in html of container full of gas.The molecules should  be simple diatomic helium gas molecules. Also in addition to collision physics also add corrections for vanderwal forces and apply distortion to the mechanics of the molecules based on the forces
+
+2.create a simple 2D demonstration of the above java script to the level of complexity that you can code
+
+3.Using the mass of the helium nucleus, and the speed of the gas molecules, have label that output the temperature of the box at any instant. Use statistical mechanics to calculate the temperature
+
+4.update above code to add the label in html below the gas container. To the right of the gas container have a small box that explains the kinetic theory of gases and have the relavent equation below it 
